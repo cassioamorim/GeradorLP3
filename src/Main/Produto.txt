@@ -1,0 +1,7 @@
+int;idProduto
+String;nome
+String;especificacoes
+double;preco
+int;idTipoK
+int;idMarcaK
+String;caminho
